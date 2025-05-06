@@ -75,7 +75,7 @@ The project covers everything from frontend UI/UX design to backend API integrat
 
 ---
 
-## 👥 Roles & Responsibilities
+## 👥 Project Roles and Responsibilities
 
 | Role               | Responsibilities |
 |--------------------|------------------|
